@@ -73,3 +73,9 @@ FROM employee
 GROUP BY last_name
 ORDER BY "count" DESC;
 
+-- Epilogue
+-- Search ID number 499942
+
+SELECT e.first_name, e.last_name, e.hire_date
+FROM employee AS e
+WHERE emp_no = 499942;
