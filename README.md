@@ -29,7 +29,7 @@ The ERD was used to create the appropriate tables and the data was imported.
 
 The database was completed and the following queries were completed:
 
-1. List the following details of each employee: employee number, last name, first name, sex, and salary.
+#### 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
 Path to the Question 1 table with code 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question1.PNG
 
@@ -37,7 +37,7 @@ Path to the Question 1 table with code 20210120Homework_TDY/SQL_Challenge/Employ
 
 
 
-2. List first name, last name, and hire date for employees who were hired in 1986.
+#### 2. List first name, last name, and hire date for employees who were hired in 1986.
 
 Path to the Question 2 table with code 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question2.PNG
 
@@ -45,7 +45,7 @@ Path to the Question 2 table with code 20210120Homework_TDY/SQL_Challenge/Employ
 
 
 
-3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
+#### 3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 
 Path to the Question 3 table with code 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question3.PNG
 
@@ -53,7 +53,7 @@ Path to the Question 3 table with code 20210120Homework_TDY/SQL_Challenge/Employ
 
 
 
-4. List the department of each employee with the following information: employee number, last name, first name, and department name.
+#### 4. List the department of each employee with the following information: employee number, last name, first name, and department name.
 
 Path to the Question 4 table with code 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question4.PNG
 
@@ -61,7 +61,7 @@ Path to the Question 4 table with code 20210120Homework_TDY/SQL_Challenge/Employ
 
 
 
-5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+#### 5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
 
 Path to the Question 5 table with code 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question5.PNG
 
@@ -69,7 +69,7 @@ Path to the Question 5 table with code 20210120Homework_TDY/SQL_Challenge/Employ
 
 
 
-6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
+#### 6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
 
 Path to the Question 6 table with code 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question6.PNG
 
@@ -77,7 +77,7 @@ Path to the Question 6 table with code 20210120Homework_TDY/SQL_Challenge/Employ
 
 
 
-7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+#### 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 Path to the Question 7 table with code 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question7.PNG
 
@@ -85,7 +85,7 @@ Path to the Question 7 table with code 20210120Homework_TDY/SQL_Challenge/Employ
 
 
 
-8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+#### 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
 Path to the Question 8 table with code 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question8.PNG
 
@@ -103,13 +103,13 @@ Path to the image of importing database into pandas 20210120Homework_TDY/SQL_Cha
 
 <img src="SQL_Challenge/EmployeeSQL/data/db_import_pandas.PNG" width = "500">
 
-Visualization 1 - Create a histogram to visualize the most common salary ranges for employees.
+#### Visualization 1 - Create a histogram to visualize the most common salary ranges for employees.
 
 Path to the image of importing database into pandas 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/ty_HW09_salary_hist.png
 
 <img src="SQL_Challenge/EmployeeSQL/data/ty_HW09_salary_hist.png" width = "500">
 
-Visualization 2 -  Create a bar chart of average salary by title.
+#### Visualization 2 -  Create a bar chart of average salary by title.
 
 Path to the image of importing database into pandas 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/ty_HW09_avgsalarybytitle.png
 
@@ -118,7 +118,7 @@ Path to the image of importing database into pandas 20210120Homework_TDY/SQL_Cha
 
 ## V. Epilogue
 
-Last instruction was to search for employee ID number 499942.
+#### Last instruction was to search for employee ID number 499942.
 
 Path to the Epilogue with code 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Epilogue.PNG
 
@@ -128,8 +128,17 @@ Path to the Epilogue with code 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/da
 
 * Create an image file of your ERD.
 
+#### Path to the ERD 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/ty_sqlchallenge_ERD_QDBD1.png
+
 * Create a `.sql` file of your table schemata.
+
+#### Path to the table schemata 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/ty_sqlchallenge_tableschemata.sql
 
 * Create a `.sql` file of your queries.
 
+#### Path to the queries 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/ty_sqlchallenge_queries.sql
+
 * (Optional) Create a Jupyter Notebook of the bonus analysis.
+
+#### Path to the Jupyter Notebook 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/ty_sqlchallenge_bonus.ipynb
+
