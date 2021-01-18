@@ -9,7 +9,7 @@ Objectives are:
 - Use Pandas to create a histogram of salaries and a barchart showing average salary per jog title
   The tables were read into Pandas using sqlalchemy
 
-I. Data Modeling
+## I. Data Modeling
 
 The csv tables were reviewed to identify contents, columns, and data types.  
 
@@ -20,12 +20,12 @@ Path to the ERD 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/ty_sqlchalle
 <img src="SQL_Challenge/EmployeeSQL/data/ty_sqlchallenge_ERD_QDBD1.png" width = "750">
 
 
-II. Data Engineering
+## II. Data Engineering
 
 The ERD was used to create the appropriate tables and the data was imported.
 
 
-III. Data Analysis
+## III. Data Analysis
 
 The database was completed and the following queries were completed:
 
@@ -93,27 +93,30 @@ Path to the Question 8 table with code 20210120Homework_TDY/SQL_Challenge/Employ
 
 
 
-IV. Bonus (Optional)
+## IV. Bonus (Optional)
 
-As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee. To confirm your hunch, you decide to take the following steps to generate a visualization of the data, with which you will confront your boss:
+Generate visualizations of the data
 
-1. Import the SQL database into Pandas. (Yes, you could read the CSVs directly in Pandas, but you are, after all, trying to prove your technical mettle.) This step may require some research. Feel free to use the code below to get started. Be sure to make any necessary modifications for your username, password, host, port, and database name:
+The data was imported into Pandas using sqlalchemy 
 
-   ```sql
-   from sqlalchemy import create_engine
-   engine = create_engine('postgresql://localhost:5432/<your_db_name>')
-   connection = engine.connect()
-   ```
+Path to the image of importing database into pandas 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/db_import_pandas.PNG
 
-* Consult [SQLAlchemy documentation](https://docs.sqlalchemy.org/en/latest/core/engines.html#postgresql) for more information.
+<img src="SQL_Challenge/EmployeeSQL/data/db_import_pandas.PNG" width = "500">
 
-* If using a password, do not upload your password to your GitHub repository. See [https://www.youtube.com/watch?v=2uaTPmNvH0I](https://www.youtube.com/watch?v=2uaTPmNvH0I) and [https://help.github.com/en/github/using-git/ignoring-files](https://help.github.com/en/github/using-git/ignoring-files) for more information.
+Visualization 1 - Create a histogram to visualize the most common salary ranges for employees.
 
-2. Create a histogram to visualize the most common salary ranges for employees.
+Path to the image of importing database into pandas 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/ty_HW09_salary_hist.png
 
-3. Create a bar chart of average salary by title.
+<img src="SQL_Challenge/EmployeeSQL/data/ty_HW09_salary_hist.png" width = "500">
 
-V. Epilogue
+Visualization 2 -  Create a bar chart of average salary by title.
+
+Path to the image of importing database into pandas 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/ty_HW09_avgsalarybytitle.png
+
+<img src="SQL_Challenge/EmployeeSQL/data/ty_HW09_avgsalarybytitle.png" width = "500">
+
+
+## V. Epilogue
 
 Last instruction was to search for employee ID number 499942.
 
