@@ -29,15 +29,15 @@ The database was completed and the following queries were completed:
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
-Path to the Question 1 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question1.png
+Path to the Question 1 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question1.PNG
 
-<img src="SQL_Challenge/EmployeeSQL/data/Question1.png">
+<img src="SQL_Challenge/EmployeeSQL/data/Question1.PNG">
 
 2. List first name, last name, and hire date for employees who were hired in 1986.
 
-Path to the Question 2 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question2.png
+Path to the Question 2 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question2.PNG
 
-<img src="SQL_Challenge/EmployeeSQL/data/Question2.png">
+<img src="SQL_Challenge/EmployeeSQL/data/Question2.PNG">
 
 3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 
