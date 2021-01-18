@@ -2,6 +2,12 @@
 SQL-Challenge
 
 This homework consisted of data modeling and data engineering.
+Objectives are:
+- Create ERD of csv tables
+- Create tables and import data
+- Create various displays of the data in table format
+- Use Pandas to create a histogram of salaries and a barchart showing average salary per jog title
+  The tables were read into Pandas using sqlalchemy
 
 I. Data Modeling
 
@@ -13,26 +19,19 @@ Path to the ERD 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/ty_sqlchalle
 
 <img src="SQL_Challenge/EmployeeSQL/data/ty_sqlchallenge_ERD_QDBD1.png">
 
+II. Data Engineering
 
+The ERD was used to create the appropriate tables and the data was imported.
 
+III. Data Analysis
 
-
-
-
-#### Data Engineering
-
-* Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
-
-  * For the primary keys check to see if the column is unique, otherwise create a [composite key](https://en.wikipedia.org/wiki/Compound_key). Which takes to primary keys in order to uniquely identify a row.
-  * Be sure to create tables in the correct order to handle foreign keys.
-
-* Import each CSV file into the corresponding SQL table. **Note** be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.
-
-#### Data Analysis
-
-Once you have a complete database, do the following:
+The database was completed and the following queries were completed:
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
+
+Path to the Question 1 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/ty_sqlchallenge_ERD_QDBD1.png
+
+<img src="SQL_Challenge/EmployeeSQL/data/ty_sqlchallenge_ERD_QDBD1.png">
 
 2. List first name, last name, and hire date for employees who were hired in 1986.
 
