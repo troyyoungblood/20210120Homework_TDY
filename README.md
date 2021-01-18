@@ -7,7 +7,15 @@ I. Data Modeling
 
 The csv tables were reviewed to identify contents, columns, and data types.  
 
-A rough sketch ERD table was created to identify initial table layout, primary keys, foreign keys, contraints, and data types.  The sketch was then transferred to a tool called quick databased diagrams.  [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
+A rough sketch ERD table was created to identify initial table layout, primary keys, foreign keys, contraints, and data types.  The sketch was then transferred to a tool called quick databased diagrams.  [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com). 
+
+Path to the ERD 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/ty_sqlchallenge_ERD_QDBD1.png
+
+<img src="SQL_Challenge/EmployeeSQL/data/ty_sqlchallenge_ERD_QDBD1.png">
+
+
+
+
 
 
 
