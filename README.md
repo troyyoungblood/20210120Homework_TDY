@@ -105,13 +105,13 @@ Path to the image of importing database into pandas 20210120Homework_TDY/SQL_Cha
 
 #### Visualization 1 - Create a histogram to visualize the most common salary ranges for employees.
 
-Path to the image of importing database into pandas 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/ty_HW09_salary_hist.png
+Path to the image of Visualization 1 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/ty_HW09_salary_hist.png
 
 <img src="SQL_Challenge/EmployeeSQL/data/ty_HW09_salary_hist.png" width = "500">
 
 #### Visualization 2 -  Create a bar chart of average salary by title.
 
-Path to the image of importing database into pandas 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/ty_HW09_avgsalarybytitle.png
+Path to the image of Visualization 2 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/ty_HW09_avgsalarybytitle.png
 
 <img src="SQL_Challenge/EmployeeSQL/data/ty_HW09_avgsalarybytitle.png" width = "500">
 
