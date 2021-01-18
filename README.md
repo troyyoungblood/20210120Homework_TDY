@@ -29,25 +29,53 @@ The database was completed and the following queries were completed:
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
-Path to the Question 1 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/ty_sqlchallenge_ERD_QDBD1.png
+Path to the Question 1 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question1.png
 
-<img src="SQL_Challenge/EmployeeSQL/data/ty_sqlchallenge_ERD_QDBD1.png">
+<img src="SQL_Challenge/EmployeeSQL/data/Question1.png">
 
 2. List first name, last name, and hire date for employees who were hired in 1986.
 
+Path to the Question 2 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question2.png
+
+<img src="SQL_Challenge/EmployeeSQL/data/Question2.png">
+
 3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
+
+Path to the Question 3 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question3.png
+
+<img src="SQL_Challenge/EmployeeSQL/data/Question3.png">
 
 4. List the department of each employee with the following information: employee number, last name, first name, and department name.
 
+Path to the Question 4 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question4.png
+
+<img src="SQL_Challenge/EmployeeSQL/data/Question4.png">
+
 5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+
+Path to the Question 5 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question5.png
+
+<img src="SQL_Challenge/EmployeeSQL/data/Question5.png">
 
 6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
 
+Path to the Question 6 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question6.png
+
+<img src="SQL_Challenge/EmployeeSQL/data/Question6.png">
+
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+
+Path to the Question 7 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question7.png
+
+<img src="SQL_Challenge/EmployeeSQL/data/Question7.png">
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-## Bonus (Optional)
+Path to the Question 8 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question8.png
+
+<img src="SQL_Challenge/EmployeeSQL/data/Question8.png">
+
+IV. Bonus (Optional)
 
 As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee. To confirm your hunch, you decide to take the following steps to generate a visualization of the data, with which you will confront your boss:
 
@@ -67,9 +95,13 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 
 3. Create a bar chart of average salary by title.
 
-## Epilogue
+V. Epilogue
 
-Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
+Last instruction was to search for employee ID number 499942.
+
+Path to the Epilogue 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Epilogue.png
+
+<img src="SQL_Challenge/EmployeeSQL/data/Epilogue.png">
 
 ## Submission
 
