@@ -41,39 +41,39 @@ Path to the Question 2 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data
 
 3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 
-Path to the Question 3 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question3.png
+Path to the Question 3 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question3.PNG
 
-<img src="SQL_Challenge/EmployeeSQL/data/Question3.png">
+<img src="SQL_Challenge/EmployeeSQL/data/Question3.PNG">
 
 4. List the department of each employee with the following information: employee number, last name, first name, and department name.
 
-Path to the Question 4 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question4.png
+Path to the Question 4 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question4.PNG
 
-<img src="SQL_Challenge/EmployeeSQL/data/Question4.png">
+<img src="SQL_Challenge/EmployeeSQL/data/Question4.PNG">
 
 5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
 
-Path to the Question 5 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question5.png
+Path to the Question 5 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question5.PNG
 
-<img src="SQL_Challenge/EmployeeSQL/data/Question5.png">
+<img src="SQL_Challenge/EmployeeSQL/data/Question5.PNG">
 
 6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
 
-Path to the Question 6 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question6.png
+Path to the Question 6 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question6.PNG
 
-<img src="SQL_Challenge/EmployeeSQL/data/Question6.png">
+<img src="SQL_Challenge/EmployeeSQL/data/Question6.PNG">
 
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
-Path to the Question 7 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question7.png
+Path to the Question 7 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question7.PNG
 
-<img src="SQL_Challenge/EmployeeSQL/data/Question7.png">
+<img src="SQL_Challenge/EmployeeSQL/data/Question7.PNG">
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-Path to the Question 8 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question8.png
+Path to the Question 8 table 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Question8.PNG
 
-<img src="SQL_Challenge/EmployeeSQL/data/Question8.png">
+<img src="SQL_Challenge/EmployeeSQL/data/Question8.PNG">
 
 IV. Bonus (Optional)
 
@@ -99,9 +99,9 @@ V. Epilogue
 
 Last instruction was to search for employee ID number 499942.
 
-Path to the Epilogue 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Epilogue.png
+Path to the Epilogue 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/Epilogue.PNG
 
-<img src="SQL_Challenge/EmployeeSQL/data/Epilogue.png">
+<img src="SQL_Challenge/EmployeeSQL/data/Epilogue.PNG">
 
 ## Submission
 
