@@ -140,5 +140,5 @@ Path to the Epilogue with code 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/da
 
 * (Optional) Create a Jupyter Notebook of the bonus analysis.
 
-#### Path to the Jupyter Notebook 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/ty_sqlchallenge_bonus.ipynb
+#### Path to the Jupyter Notebook 20210120Homework_TDY/SQL_Challenge/EmployeeSQL/data/ty_sqlchallenge_bonus_final.ipynb
 
