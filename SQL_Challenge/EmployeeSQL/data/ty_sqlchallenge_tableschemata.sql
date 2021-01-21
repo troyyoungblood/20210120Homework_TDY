@@ -26,7 +26,7 @@ DROP TABLE IF EXISTS title;
 -- also - csv imported in this order
 
 CREATE TABLE department (
-	dept_no VARCHAR(15) Primary Key,
+	dept_no VARCHAR(15) Primary Key NOT NULL,
 	dept_name VARCHAR(45) NOT NULL	
 );
 
