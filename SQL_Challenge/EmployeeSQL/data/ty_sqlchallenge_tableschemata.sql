@@ -33,8 +33,8 @@ CREATE TABLE department (
 SELECT * FROM department;
 
 CREATE TABLE title(
-	title_id VARCHAR(10) PRIMARY KEY,
-	title VARCHAR(45)
+	title_id VARCHAR(10) PRIMARY KEY NOT NULL,
+	title VARCHAR(45) NOT NULL
 );
 
 SELECT * FROM title;
